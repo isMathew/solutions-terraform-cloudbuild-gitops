@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="resolution-media-test-account"

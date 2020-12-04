@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate"
+    bucket = "resolution-media-test-account-tfstate"
     prefix = "env/dev"
   }
 }
